@@ -1,0 +1,136 @@
+#Home {
+  background-color: #ff616d;
+}
+.navbar {
+  box-shadow: 2px 2px #a0937d;
+}
+h1 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 800;
+}
+h2 {
+  font-family: "Source Serif Pro", serif;
+  font-size: 3rem;
+  font-weight: 700;
+}
+h3 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+.home-page-h2 {
+  font-family: "Cookie", cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 400;
+}
+.container-fluid {
+  padding: 0.5%;
+  padding-left: 2%;
+}
+.navbar-brand {
+  font-size: 2em;
+  font-weight: bold;
+  font-family: "Roboto Slab", serif;
+}
+.nav-item {
+  margin-left: 20px;
+}
+a {
+  font-size: 1.2rem;
+}
+/* home-page */
+#home-page {
+  background-color: #cdf0ea;
+  position: relative;
+  text-align: center;
+  padding: 5%;
+}
+.title-edit {
+  margin-top: 100px;
+  line-height: 6;
+}
+.title-image {
+  width: 90%;
+}
+.top:hover {
+  color: #f6c6ea;
+}
+.title-work {
+  text-align: center;
+  padding: 1px;
+  margin: 10px;
+}
+.details-button {
+  padding: 10px;
+  margin-top: 15px;
+}
+span {
+  color: #334257;
+}
+/* trending-page */
+#trending-page {
+  text-align: center;
+  padding: 8% 5%;
+  line-height: 1.5;
+}
+.fruits-set {
+  margin-top: 100px;
+}
+.fruit-sing {
+  padding: 3px;
+}
+/* organic fruits */
+#organic-fruits {
+  text-align: center;
+  background-color: #b3e283;
+  padding: 100px;
+  margin-bottom: 30px;
+}
+.special-fruit {
+  text-align: left;
+  margin-top: 100px;
+  line-height: 2;
+}
+.special-fruit2 {
+  font-size: 1.5rem;
+  line-height: 2;
+  font-weight: 300;
+  font-family: "Secular One", sans-serif;
+  letter-spacing: 10%;
+}
+.organic2 {
+  margin-top: 100px;
+}
+/* contact-form */
+.contact-title {
+  font-size: 3rem;
+  font-family: "Raleway", sans-serif;
+}
+#contact {
+  padding: 5% 3%;
+}
+/* footer */
+.footer-font {
+  font-size: 3.5rem;
+}
+.footer-button {
+  padding: 2% 3%;
+  margin: 5rem;
+}
+#footer {
+  background-color: #cdf0ea;
+  padding: 3% 10%;
+  text-align: center;
+  line-height: 50px;
+}
+.f-icon {
+  margin: 15px;
+}
+.f-icon:hover {
+  color: #d83a56;
+}
+.footer-para {
+  color: #3e215d;
+}
